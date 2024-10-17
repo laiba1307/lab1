@@ -5,7 +5,7 @@ public class task1 {
 			System.out.println(inputArray[element]);
 		}
 		
-	}
+	}jghjjjhhjjjg
 	public static void main(String[] args) {
 		
 		Integer[] intArray = { 1, 2, 3, 4, 6 };
